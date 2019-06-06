@@ -22,6 +22,8 @@ body {
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
+  font-family: 'Gabriela', serif;
+  color:black;
 }
 
 h1, h2 {
