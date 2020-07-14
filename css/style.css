@@ -80,6 +80,9 @@ a:hover {
   h2 {
     font-size: 1em;
   }
+  h3 {
+    font-size: 4em;
+  }
   .wrapper {
     width: 95%;
   }
